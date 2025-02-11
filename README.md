@@ -1,12 +1,5 @@
 # Portfolio Website - v2.0
 
-## Live Demo
-[Click here to visit my portfolio](https://yourportfolio.com)
-
-<div align="center">
-  <img alt="Demo" src="./Images/demo.png" />
-</div>
-
 ## Badges
 
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com) &nbsp;
@@ -21,7 +14,6 @@ This project was built using the following technologies:
 
 - React.js
 - Node.js
-- Express.js
 - CSS3
 - VS Code
 
@@ -66,5 +58,5 @@ Contributions, issues, and feature requests are welcome! Feel free to check the 
 
 Give a ⭐ if you like this project!
 
-<a href="https://www.buymeacoffee.com/yourusername" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-violet.png" alt="Buy Me A Coffee" height= "60px" width= "217px" ></a>
+<a href="https://www.buymeacoffee.com/abhaykumar30" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-violet.png" alt="Buy Me A Coffee" height= "60px" width= "217px" ></a>
 
