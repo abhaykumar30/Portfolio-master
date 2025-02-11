@@ -26,6 +26,11 @@ jobs:
           export CI=false
           npm run build
 
+      - name: Configure Git
+        run: |
+          git config --global user.email "ar5703233@gmail.com"
+          git config --global user.name "abhaykumar30"
+
       - name: Deploy to GitHub Pages
         run: npm run deploy
         env:
