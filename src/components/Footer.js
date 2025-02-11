@@ -4,9 +4,7 @@ import {
   AiFillGithub
 } from "react-icons/ai";
 import {
-  AiFillGithub,
-//   AiOutlineTwitter,
-//   AiFillInstagram,
+  AiFillGithu
 } from "react-icons/ai";
 import { FaLinkedinIn } from "react-icons/fa";
 
