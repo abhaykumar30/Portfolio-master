@@ -3,6 +3,11 @@ import { Container, Row, Col } from "react-bootstrap";
 import {
   AiFillGithub
 } from "react-icons/ai";
+import {
+  AiFillGithub,
+//   AiOutlineTwitter,
+//   AiFillInstagram,
+} from "react-icons/ai";
 import { FaLinkedinIn } from "react-icons/fa";
 
 function Footer() {
